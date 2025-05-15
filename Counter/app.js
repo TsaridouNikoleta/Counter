@@ -1,3 +1,5 @@
+//1st
+
 // const value = document.getElementById('value');
 
 // const decrease = document.getElementById('decrease');
@@ -48,6 +50,8 @@
 // }
 
 //--------------------------------------------------------------------------------------
+
+//2nd
 
 let count = 0;
 
